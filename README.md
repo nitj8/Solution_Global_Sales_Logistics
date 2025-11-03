@@ -1,7 +1,7 @@
 # Solution_Global_Sales_Logistics
 1. Project Title / Headline
 
-🚚 WallMort Retailers Logistics Performance Dashboard | Power BI Report
+WallMort Retailers Logistics Performance Dashboard | Power BI Report
 A comprehensive Power BI dashboard designed to monitor and optimize logistics operations—focusing on shipping trends, delivery performance, and cost efficiency across different segments and product categories.
 
 2. Short Description / Purpose
@@ -11,11 +11,11 @@ The Logistics Overview Dashboard provides real-time visibility into key supply c
 3. Tech Stack
 
 The dashboard was developed using the following tools and technologies:
-• 📊 Power BI Desktop – Used for data modeling, dashboard design, and visualization.
-• 🔄 Power Query Editor – For data extraction, transformation, and cleaning.
-• 🧮 DAX (Data Analysis Expressions) – For calculating KPIs like Average Shipping Days, SLA Performance, and Cost Metrics.
-• 🗂️ Data Modeling – Established relationships among Order, Segment, and Shipping tables for seamless cross-filtering.
-• 💾 File Format – .pbix (development) and .png (presentation preview).
+•  Power BI Desktop – Used for data modeling, dashboard design, and visualization.
+•  Power Query Editor – For data extraction, transformation, and cleaning.
+•  DAX (Data Analysis Expressions) – For calculating KPIs like Average Shipping Days, SLA Performance, and Cost Metrics.
+•  Data Modeling – Established relationships among Order, Segment, and Shipping tables for seamless cross-filtering.
+•  File Format – .pbix (development) and .png (presentation preview).
 
 4. Data Source
 

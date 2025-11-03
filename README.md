@@ -86,3 +86,4 @@ Customer Experience: Enabled proactive resolution of delays and better service r
 
 Data-Driven Planning: Supported strategic logistics decisions based on delivery performance and cost patterns.
 6. Screenshots / Demos
+https://github.com/nitj8/Solution_Global_Sales_Logistics/blob/main/Solution_Global_Sales_Logistics.png
